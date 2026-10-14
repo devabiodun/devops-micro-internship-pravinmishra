@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+A networking protocol is a set of rules that allows computers and devices to communicate and exchange data. Like postal rules for sending letters, protocols ensure data reaches the correct destination in the right format. Packets are small units of data into which information is divided for transmission across a network and then reassembled at the destination.
 
 ---
 
@@ -58,8 +58,7 @@ Write a short explanation (**100–150 words**) that includes:
 💡 **Tip:** You may use ChatGPT (as demonstrated in Task 1) to refine your explanation.
 
 ## Answer
-
-Add your answer here...
+**EpicReads** is an online bookstore hosted on a server in Finland, accessible to users worldwide through the internet. When users access the website, **packet switching** divides their data into small packets that travel across different networks and are reassembled at the destination. Each device and server uses an **IP address** to identify destinations and route data to the correct location. **TCP/IP** enables communication between devices, with TCP ensuring reliable, ordered data delivery and IP handling addressing and routing. Finally, **HTTP/HTTPS** allows browsers to request webpages from EpicReads' server, while HTTPS encrypts communication to protect sensitive information, such as login credentials and payment details. Together, these technologies enable users worldwide to browse books and shop securely on EpicReads.
 
 ---
 
@@ -91,10 +90,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
-
-
-Replace `task-3-diagram.png` with your actual diagram file name.
+![Application Architecture Diagram](screenshots/task-2-diagram.png)
 
 ---
 
@@ -102,18 +98,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML/CSS/JavaScript
+* React
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js/Express
+* Django
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* PostgreSQL
+* MySQL
 
 ---
 
@@ -142,7 +138,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is a system that translates human-readable domain names into IP addresses, allowing users to access websites without memorising numerical addresses. For EpicReads, an A record maps `epicreads.com` to the IPv4 address `52.172.142.222`. Since the website runs on port `3000`, a reverse proxy may be needed to enable access through standard HTTP/HTTPS ports.
 
 ---
 
@@ -179,9 +175,6 @@ ls
 Save your screenshot in the `screenshots` folder and update the file name below.
 
 ![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
-
-
-Replace `task-5-vscode.png` with your actual screenshot file name.
 
 ---
 
@@ -237,7 +230,8 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+My LinkedIn is currently under suspension, I have tried to do reverification, but will take 48 hours to 5 working days
+I will update with the link immediately my account is rectified.
 ```
 
 ---
@@ -246,27 +240,46 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+My DevOps Journey Begins: Week 00 — Internet and Networking
+
+As part of the DevOps Micro Internship (DMI) with Agentic AI, I’ve been building my foundational knowledge of the internet, networking, and application architecture. Here are my key takeaways from Week 00! 
+
+1. ChatGPT: I explored how ChatGPT can serve as a learning assistant by explaining technical concepts in simple terms. I learned that a networking protocol is a set of rules that enables devices to communicate and exchange data.
+
+2. Internet and Networking: I learned how users worldwide can access EpicReads, an online bookstore hosted in Finland. Key concepts include packet switching, IP addresses, TCP/IP, and HTTP/HTTPS.
+
+3. App Architecture: I explored two-tier and three-tier application architectures. A two-tier application connects the frontend directly to the database, while a three-tier application introduces a backend layer to handle business logic between the frontend and database. 
+Technologies explored:
+Frontend: HTML, CSS, JavaScript, React
+Backend: Node.js/Express, Django
+Database: PostgreSQL, MySQL
+
+4. DNS (Domain Name System): I learned how DNS translates human-readable domain names into IP addresses. For EpicReads, an A record maps epicreads.com to the IPv4 address 52.172.142.222.
+
+5. VS Code Setup: I worked on setting up my development environment using Visual Studio Code, including using its integrated terminal to execute basic commands and navigate directories.
+
+Key takeaway: Building a strong understanding of networking, DNS, and application architecture is an important step toward becoming a capable DevOps engineer. I’m excited to keep learning, practising, and building!
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 4 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/devabiodun.html. Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=studentamp;utm_medium=ps-linkedinamp;utm_campaign=cohort4
+
+#DMIByPravinMishra #AgenticAI #DevOps
 
 ---
 
 # Reflection – Week 0
 
 ### What did you find easy?
-
-Add your answer here...
+I found it easy to understand basic networking concepts, such as protocols, IP addresses, and DNS, especially with the help of ChatGPT and real-life examples.
 
 ---
 
 ### What was difficult?
-
-Add your answer here...
+I was unable to understand all the concept easily, so there is nothing difficult yet.
 
 ---
 
 ### What will you improve next week?
-
-Add your answer here...
+I will improve my practical DevOps skills by practising more with the terminal, exploring networking commands, and learning how to configure and deploy applications.
 
 ---
 

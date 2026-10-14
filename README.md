@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Abiodun Awoyemi |
+| **LinkedIn** | [abiodunawoyemi](https://www.linkedin.com/in/abiodunawoyemi/) |
+| **Location** | Lagos, Nigeria |
+| **Background** | Cloud, DevOps & AI Enthusiast |
+| **Goal** | To get to a confidence level of a mid level devops engineer at the end of my internship at The CloudAdvisory |
 
 ---
 
