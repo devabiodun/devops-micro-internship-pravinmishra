@@ -230,8 +230,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-My LinkedIn is currently under suspension, I have tried to do reverification, but will take 48 hours to 5 working days
-I will update with the link immediately my account is rectified.
+https://www.linkedin.com/posts/abiodunawoyemi_dmibypravinmishra-agenticai-devops-share-7518375024358039553-U2ZO/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAG-2Q-wBuBkFwpCym_D_vq67FrWEiqY6530
 ```
 
 ---
